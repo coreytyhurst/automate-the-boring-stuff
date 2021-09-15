@@ -1,6 +1,11 @@
 # automate-the-boring-stuff
+
+# 09/06/2021
 This is a repository for all of the exercises I'm doing from the book "Automate The Boring Stuff With Python"
 
-I've added this line of code just to test out the GitHub integration in VS Code.
+In playing around with GitHub and integration into VS Code, I am still a bit confused on the difference between a Committ and a Pull. I say this because I committed via VS Code, and I would have thought that it would show up in GitHub
 
-This is some extra text to test staging.
+# Important Reference Files for Key Python Concepts
+# Loops over i --> fiveTimes.py
+# Flow Variables (While, If, Elif, Break, Continue) --> rpsGame.py
+# Functions with Arguments --> helloFunc2.py
